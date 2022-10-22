@@ -2,10 +2,10 @@
   "short_name": "CAMPUS MEET",
   "name": "powered by pwa",
   "description": "Haz amigos nuevos en el campus!",
-  "start_url": "/index.php",
+  "start_url": "/tinder-unicen/index.php",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/tinder-unicen/",
   "theme_color": "#3367D6",
   "icons": [
       {
