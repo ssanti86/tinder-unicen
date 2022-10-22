@@ -1,0 +1,17 @@
+{
+  "short_name": "CAMPUS MEET",
+  "name": "powered by pwa",
+  "description": "Haz amigos nuevos en el campus!",
+  "start_url": "/tinder/index.php",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/tinder/",
+  "theme_color": "#3367D6",
+  "icons": [
+      {
+      "src": "imgs/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
